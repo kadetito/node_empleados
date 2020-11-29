@@ -1,2 +1,2 @@
-# node_empleados
-repositorio de empleados con historial
+# Repositorio de empleados
+Backend en NODE para uso en Angular, Nativescript, REACT-NATIVE e IONIC
